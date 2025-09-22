@@ -6,8 +6,8 @@
     },
     "lab": "Network Security Lab",
     "lab_display_name": "Network Security Lab",
-    "phase": 3,
-    "collegeName": "amrt",
+    "phase": "3-ext",
+    "collegeName": "AMRT",
     "baseUrl": "ns-amrt.vlabs.ac.in",
     "introduction": "Cyber security is recognized as an emerging subject as per AICTE (https://www.aicte-india.org/sites/default/files/UG_Emerging.pdf), and the network security lab is a critical component of the same. Currently there are no virtual labs for network security. The closest existing Vlabs have exercises focused on cryptography (https://cse29-iiith.vlabs.ac.in/ and http://vlabs.iitb.ac.in/vlabs-dev/vlab_bootcamp/bootcamp/Byte_Karma/index.html). The proposed lab also focuses on the network security concepts as per the units II and III of the Cyber Security Model Curriculum. <br> The purpose of this lab is to create a better understanding of the network security concepts. This lab covers network security concepts, practices, protocols and standards, firewalls and wireless security mechanisms. This lab helps the student to gain insight into the key aspects of secure network communication and enables them to apply in real-life scenarios.",
     "experiments": [
