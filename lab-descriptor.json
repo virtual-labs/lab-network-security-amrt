@@ -15,56 +15,56 @@
             "name": "Simulation of the Transmission Control Protocol (TCP) communication between two entities",
             "short-name": "tcp-simulation",
             "repo": "https://github.com/virtual-labs/exp-tcp-au",
-            "tag": "v1.1.0",
+            "tag": "v1.1.1",
             "deploy": true
         },
         {
             "name": "Active attacks - TCP SYN Flood attack",
             "short-name": "tcp-syn-flood",
             "repo": "https://github.com/virtual-labs/exp-active-attacks-au",
-            "tag": "v1.1.0",
+            "tag": "v1.1.1",
             "deploy": true
         },
         {
             "name": "Passive attacks - Eavesdropping",
             "short-name": "eavesdropping",
             "repo": "https://github.com/virtual-labs/exp-passive-attacks-au",
-            "tag": "v1.1.0",
+            "tag": "v1.1.1",
             "deploy": true
         },
         {
             "name": "Combining passive and active attacks - Replay Attacks",
             "short-name": "replay-attacks",
             "repo": "https://github.com/virtual-labs/exp-replay-attacks-au",
-            "tag": "v1.1.0",
+            "tag": "v1.1.1",
             "deploy": true
         },
         {
             "name": "Defending against attacks: Simulation and working of Kerberos protocol for mutual authentication",
             "short-name": "kerberos-protocol",
             "repo": "https://github.com/virtual-labs/exp-kerberos-protocol-au",
-            "tag": "v1.1.0",
+            "tag": "v1.1.1",
             "deploy": true
         },
         {
             "name": "Defending against attacks: To simulate the Secure Socket Layer (SSL) transmission between a user and a server",
             "short-name": "ssl-simulation",
             "repo": "https://github.com/virtual-labs/exp-ssl-simulation-au",
-            "tag": "v1.1.0",
+            "tag": "v1.1.1",
             "deploy": true
         },
         {
             "name": "To understand intrusion prevention systems - Firewall",
             "short-name": "firewall",
             "repo": "https://github.com/virtual-labs/exp-intrusion-prevention-systems-au",
-            "tag": "v1.1.0",
+            "tag": "v1.1.1",
             "deploy": true
         },
         {
             "name": "Understanding Intrusion Detection System using firewalls",
             "short-name": "intrusion-detection",
             "repo": "https://github.com/virtual-labs/exp-intrusion-detection-system-au",
-            "tag": "v1.1.0",
+            "tag": "v1.1.1",
             "deploy": true
         }
     ],
